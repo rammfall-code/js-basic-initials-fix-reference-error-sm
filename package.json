@@ -29,5 +29,8 @@
   },
   "prettier": {
     "singleQuote": true
-  }
+  },
+  "eslintIgnore": [
+    "src/dist"
+  ]
 }

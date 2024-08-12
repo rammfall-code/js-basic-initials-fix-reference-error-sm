@@ -1,6 +1,7 @@
-# template-vanilla
+# js-basic-initials-fix-reference-error-sm
 
-## Text
+## Fix reference error
+- Page should ask user about name and age and alert this info
 
 ## Criteria:
 
